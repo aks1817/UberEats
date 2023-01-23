@@ -2,7 +2,7 @@
 
 Scan QR Code and get started [Link](https://expo.dev/@aks_1817/uber-eats-clone?serviceType=classic&distribution=expo-go).
 
-Video Demo [Link] (https://drive.google.com/file/d/1VJaP6Do5edbSMIaeq3Fs2Gc-bFT4awnh/view).
+Video Demo [Link](https://drive.google.com/file/d/1VJaP6Do5edbSMIaeq3Fs2Gc-bFT4awnh/view).
 
 ## 🛠️ Technologies and Tools:
 
